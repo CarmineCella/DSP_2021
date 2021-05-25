@@ -559,7 +559,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "grain_core.maxpat",
-				"bootpath" : "~/Desktop",
+				"bootpath" : "~/Projects/Dissemination/Teaching/Conservatorio/2021_Pesaro/DSP_2021/modulation_synthesis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
